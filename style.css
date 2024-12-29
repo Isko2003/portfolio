@@ -29,15 +29,12 @@
   color: #aaa;
 }
 
-.nav-link:hover {
-  color: #aaa !important;
+.contact {
+  max-width: 90%;
 }
 
-.info {
-  height: 60vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.nav-link:hover {
+  color: #aaa !important;
 }
 
 .left-banner p {
